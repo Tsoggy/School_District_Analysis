@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Challenge 4: Python + Pandas
 
@@ -26,8 +26,7 @@ To analyze our data, we:
 ### Results
 
 ##### Impacts of removing the 9th graders' math and reading scores
-  - The district summary is affected in very minor ways. 
-
+  - The district summary is not greatly impacted by removing the 9th graders' math and reading scores.
 
 For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
 

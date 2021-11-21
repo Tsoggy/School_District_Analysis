@@ -56,4 +56,4 @@ We easily see three change when the ninth graders' scores are replaced with NaNs
 2. The % Passing Reading is much lower, by nearly 30%
 3. The % Passing Overall is much lower, by nearly 30%
 
-Other changes that we would see is in school rank for Thomas High School. They would be the bottom-ranked school based on % Overall Passing.
+We can infer that, with the % Passing rates lowered this dramatically, Thomas High School would be the lowest-ranked school, rather than at its current 2nd rank.

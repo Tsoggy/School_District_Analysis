@@ -24,6 +24,7 @@ To analyze our data, we:
 ### Results
 #### Impacts of removing the 9th graders' math and reading scores
   - The district summary is not impacted after the ninth graders' math and reading scores are removed. Once both sets of data are formatted, the results are identical, with the same amount of students in the district, the same total budget, the same average scores and passing percentages, as you can see here:
+
 ![District_Summary](Resources/District_Summary.png)
   - The school summary is very slightly impacted. When including the original ninth graders' scores, Thomas High School's average grades and percentage passing was greater by hundreds of a percent.
   - Replacing the ninth graders' math and reading scores doesn't affect Thomas High School's performance relative to the other schools.

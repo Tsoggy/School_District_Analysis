@@ -36,13 +36,13 @@ To analyze our data, we:
 ![Scores](Resources/Heading3.png)                          
 ![Math](Resources/Math.png)                                     
 ![Reading](Resources/Reading.png)                               
-  - Replacing the ninth graders' scores does impact scores by spending. Please see below, first with ninth graders' scores included and the second without:
+  - Replacing the ninth graders' scores does impact scores by spending. Please see below, first with ninth graders' scores included and the second without:        
 ![Spending](Resources/Original_Spending_Summary.png)
 ![Spending](Resources/Updated_Spending_Summary.png)
-  - Replacing the ninth graders' scores does impact scores by school size. Please see below, first with ninth graders' scores included and the second without:
+  - Replacing the ninth graders' scores does impact scores by school size. Please see below, first with ninth graders' scores included and the second without:    
 ![Size](Resources/Original_Size_Summary.png)
 ![Size](Resources/Updated_Size_Summary.png)
-  - Replacing the ninth graders' scores does impact scores by school type. Please see below, first with ninth graders' scores included and the second without:
+  - Replacing the ninth graders' scores does impact scores by school type. Please see below, first with ninth graders' scores included and the second without:    
 ![Type](Resources/Original_Type_Summary.png)
 ![Type](Resources/Updated_Type_Summary.png)
 

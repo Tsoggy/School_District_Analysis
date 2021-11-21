@@ -34,9 +34,9 @@ To analyze our data, we:
 ![2nd Rank](Resources/Rank_2.png)
   - Replacing the ninth graders' scores does not impact tenth, eleventh, or twelvth grade scores at all. However, ninth grade scores are listed as "NaN", as you see below (math scores are listed above the reading scores):
 
-![Scores](Resources/Heading2.png)
-![Math](Resources/Math.png)
-![Reading](Resources/Reading.png)
+![Scores](Resources/Heading2.png)                          
+![Math](Resources/Math.png)                                     
+![Reading](Resources/Reading.png)                               
   - Replacing the ninth graders' scores does not greatly impact scores by school spending.
   - Replacing the ninth graders' scores does not greatly affect scores by school size.
   - Replacing the ninth graders' scores does not greatly affect scores by school type.

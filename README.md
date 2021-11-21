@@ -36,7 +36,8 @@ Below are the updated scores for Thomas High School when the ninth graders' scor
   - Replacing the ninth graders' scores does not greatly affect scores by school type.
 
 #### Four changes
-When we originally replace our reading and math scores for the ninth graders at Thomas High School with NaNs, we see a remarkable difference in performance for Thomas High School. The reason for this is due to the fact that we are still calibrating the percentage of exam achievement based on the original number of students at Thomas High School, which DOES include the ninth graders. This brings all percentages down quite a bit.
+When we originally replace our reading and math scores for the ninth graders at Thomas High School with NaNs, we see a remarkable difference in performance for Thomas High School. The reason for this is due to the fact that we are still calibrating the percentage of exam achievement based on the original number of students at Thomas High School, which DOES include the ninth graders. This brings all percentages down, as the ninth graders' scores count as "zero" when calibrating averages and passing performance.
+
 The four changes that we see when the ninth graders' scores are replaced with NaNs are:
 1.
 2.

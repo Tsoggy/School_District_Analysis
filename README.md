@@ -36,7 +36,9 @@ To analyze our data, we:
 ![Scores](Resources/Heading3.png)                          
 ![Math](Resources/Math.png)                                     
 ![Reading](Resources/Reading.png)                               
-  - Replacing the ninth graders' scores does not greatly impact scores by school spending.
+  - Replacing the ninth graders' scores does not greatly impact scores by school spending. Please see below, first with ninth graders' scores included and the second without:
+![Spending](Resources/Original_Spending_Summary.png)
+![Spending](Resources/Updating_Spending_Summary.png)
   - Replacing the ninth graders' scores does not greatly affect scores by school size.
   - Replacing the ninth graders' scores does not greatly affect scores by school type.
 

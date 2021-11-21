@@ -36,11 +36,15 @@ To analyze our data, we:
 ![Scores](Resources/Heading3.png)                          
 ![Math](Resources/Math.png)                                     
 ![Reading](Resources/Reading.png)                               
-  - Replacing the ninth graders' scores does not greatly impact scores by school spending. Please see below, first with ninth graders' scores included and the second without:
+  - Replacing the ninth graders' scores does impact scores by spending. Please see below, first with ninth graders' scores included and the second without:
 ![Spending](Resources/Original_Spending_Summary.png)
-![Spending](Resources/Updating_Spending_Summary.png)
-  - Replacing the ninth graders' scores does not greatly affect scores by school size.
-  - Replacing the ninth graders' scores does not greatly affect scores by school type.
+![Spending](Resources/Updated_Spending_Summary.png)
+  - Replacing the ninth graders' scores does impact scores by school size. Please see below, first with ninth graders' scores included and the second without:
+![Size](Resources/Original_Size_Summary.png)
+![Size](Resources/Updated_Size_Summary.png)
+  - Replacing the ninth graders' scores does impact scores by school type. Please see below, first with ninth graders' scores included and the second without:
+![Type](Resources/Original_Type_Summary.png)
+![Type](Resources/Updated_Type_Summary.png)
 
 #### Four changes
 When we originally replace our reading and math scores for the ninth graders at Thomas High School with NaNs, we see a remarkable difference in performance for Thomas High School. The reason for this is due to the fact that we are still calibrating the percentage of exam achievement based on the original number of students at Thomas High School, which DOES include the ninth graders. This brings all percentages down, as the ninth graders' scores count as "zero" when calibrating averages and passing performance.

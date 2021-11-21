@@ -29,6 +29,7 @@ To analyze our data, we:
   - The school summary is very slightly impacted. When including the original ninth graders' scores, Thomas High School's average grades and percentage passing was greater by hundreds of a percent.
   - Replacing the ninth graders' math and reading scores doesn't affect Thomas High School's performance relative to the other schools.
   - Replacing the ninth graders' scores does not greatly affect math and reading scored by grade. Below, please find Thomas High School's performance with the ninth graders' scores, followed by the updated schools for Thomas High School with ninth graders' removed from calibration:
+![Heading](Resources/Heading.png)
 ![Original Ninth](Resources/Original_School_Summary.png)
 ![Updated Ninth](Resources/Updated_School_Summary.png)
 

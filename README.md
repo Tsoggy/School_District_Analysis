@@ -26,14 +26,12 @@ To analyze our data, we:
   - The district summary is not impacted after the ninth graders' math and reading scores are removed. Once both sets of data are formatted, the results are identical, with the same amount of students in the district, the same total budget, the same average scores and passing percentages, as you can see here:
 
 ![District_Summary](Resources/District_Summary.png)
-  - The school summary is very slightly impacted. When including the original ninth graders' scores, Thomas High School's average grades and percentage passing was greater by hundreds of a percent.
-  - Replacing the ninth graders' math and reading scores doesn't affect Thomas High School's performance relative to the other schools.
-  - Replacing the ninth graders' scores does not greatly affect math and reading scored by grade. Below, please find Thomas High School's performance with the ninth graders' scores, followed by the updated schools for Thomas High School with ninth graders' removed from calibration:
+  - The school summary is very slightly impacted. When including the original ninth graders' scores, Thomas High School's average grades ave very similar: the math average grade is higher by tenths of a point with ninth graders included, while the average reading is lower by tenths of a point with ninth graders included. Percentage passing in all categories - math, reading and overall - are greater by similarly small margins with ninth graders included. Below, please find Thomas High School's performance with the ninth graders' scores inluded, followed by the Thomas High School's performance with ninth graders' removed:
 ![Heading](Resources/Heading.png)
 ![Original Ninth](Resources/Original_School_Summary.png)
 ![Updated Ninth](Resources/Updated_School_Summary.png)
-
-  - Replacing the ninth graders' scores does not greatly affect scores by school spending.
+  - Replacing the ninth graders' math and reading scores doesn't affect Thomas High School's performance relative to the other schools.
+  - Replacing the ninth graders' scores does not greatly affect math and reading scores by grade.   - Replacing the ninth graders' scores does not greatly affect scores by school spending.
   - Replacing the ninth graders' scores does not greatly affect scores by school size.
   - Replacing the ninth graders' scores does not greatly affect scores by school type.
 

@@ -30,7 +30,8 @@ To analyze our data, we:
 
 ![Original Ninth](Resources/Original_School_Summary.png)
 Below are the updated scores for Thomas High School when the ninth graders' scores are removed:
-![Updated Ninth](Resources/Updated_9th.png)
+
+![Updated Ninth](Resources/Updated_School_Summary.png)
   - Replacing the ninth graders' math and reading scores doesn't affect Thomas High School's performance relative to the other schools.
   - Replacing the ninth graders' scores does not greatly affect math and reading scored by grade.
   - Replacing the ninth graders' scores does not greatly affect scores by school spending.

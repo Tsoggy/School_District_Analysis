@@ -47,8 +47,8 @@ To analyze our data, we:
 ![Type](Resources/Updated_Type_Summary.png)
 
 #### Four changes
-When we originally replace our reading and math scores for the ninth graders at Thomas High School with NaNs, we see a remarkable difference in performance for Thomas High School. The reason for this is due to the fact that we are still calibrating the percentage of exam achievement based on the original number of students at Thomas High School, which DOES include the ninth graders. This brings all percentages down, as the ninth graders' scores count as "zero" when calibrating averages and passing performance. Below, please see our school summary with Thomas High School grades replaced with NaN but without removing the ninth graders from calibration:
-![Heading](Resouces/Heading.png)
+When we originally replace our reading and math scores for the ninth graders at Thomas High School with NaNs, we see a remarkable difference in performance for Thomas High School. The reason for this is due to the fact that we are still calibrating the percentage of exam achievement based on the original number of students at Thomas High School, which DOES include the ninth graders. This brings all percentages down, as the ninth graders' scores count as "zero" when calibrating averages and passing performance. Below, please see our school summary with Thomas High School grades replaced with NaN but without removing the ninth graders from calibration:                  
+![Heading](Resources/Heading.png)
 ![NaN](Resources/NaN.png)
 
 The four changes that we see when the ninth graders' scores are replaced with NaNs are:

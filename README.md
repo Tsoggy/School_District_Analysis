@@ -51,9 +51,9 @@ When we originally replace our reading and math scores for the ninth graders at 
 ![Heading](Resources/Heading.png)
 ![NaN](Resources/NaN.png)
 
-The four changes that we see when the ninth graders' scores are replaced with NaNs are:
+We easily see three change when the ninth graders' scores are replaced with NaNs:
 1. The % Passing Math is much lower, by nearly 30%
 2. The % Passing Reading is much lower, by nearly 30%
 3. The % Passing Overall is much lower, by nearly 30%
 
-No other changes are observed.
+Other changes that we would see is in school rank for Thomas High School. They would be the bottom-ranked school based on % Overall Passing.
